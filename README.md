@@ -4,7 +4,7 @@ This is the Read Me of this project
 
 This is a Twitter bot which retweets and likes any related post according to you
 
-You need to make a Twitter Devolper account and subscribe to Basic module which costs 100$ to try it 
+You need to make a Twitter Devolper account and subscribe to pro module which costs 5000$ to try it 
 
 Code is in Twitterbot.py file 
 
